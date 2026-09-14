@@ -17,7 +17,7 @@ Esse repositório e focado em compilar minhas formações, cursos e certificaç�
    Data: 14 de Agosto   
    Carga Horária: 20 horas  
    Nível: Básico  
-<a href="https://moodle.ifrs.edu.br/mod/simplecertificate/view.php?id=558803&action=get" target="_blank">Visualizar Certificado em PDF</a>
+<a href="https://drive.google.com/file/d/1kYBk9xhknOC41ryiHITKVXVJ5lCCZkoP/view?usp=drive_link">Visualizar Certificado em PDF</a>
 
 Temas Cobertos:
 
