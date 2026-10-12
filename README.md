@@ -42,7 +42,7 @@ Temas Cobertos:
 🏢 **Certificações LinkedIn**  
 **Cisco**  
    •Introduction to IoT - Emitido em 04 de Agosto  
-   •Python Essentials 1 - Emitido em 04 de Setembro  
+  
 
    **Atualizado em: 04 de Setembro de 2026**
   
